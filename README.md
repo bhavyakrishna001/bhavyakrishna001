@@ -1,6 +1,9 @@
-- 👋 **Hi, I’m @bhavyakrishna001**
-- 👀 **I’m interested in C,C++ languages...**
-<!---
-bhavyakrishna001/bhavyakrishna001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1> 👋 **Hi, I’m Bhavya Krishna **
+
+## I'm a Front-End Developer  !
+
+### Profile Hits ⚡
+![HitCount](https://komarev.com/ghpvc/?username=karthik558&style=flat-square&color=blue&label=HITS)
+
+### Spotify Playing 🎵
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/1TLtqSVyiUE5hReeSB8mua)
