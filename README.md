@@ -1,4 +1,4 @@
-<h1> 👋 **Hi, I’m Bhavya Krishna **
+<h1> 👋 Hi, I’m Bhavya Krishna
 
 ## I'm a Front-End Developer  !
 
