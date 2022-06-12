@@ -1,6 +1,8 @@
-<h1> 👋 Hi, I’m Bhavya Krishna
+## HI, I'm <b> Bhavya Krishna </b>
+### I'm a <b> Front-End Developer </b> 👩‍💻
 
-## I'm a Front-End Developer  !
+### <b> PROFILE VIEWS </b> 📻
+![HitCount](https://komarev.com/ghpvc/?username=bhavyakrishna001&style=flat-round&color=red&label=PROFILE+VIEWS)
 
-### Profile Hits ⚡
-![HitCount](https://komarev.com/ghpvc/?username=bhavyakrishna001&style=flat-square&color=blue&label=HITS)
+### <b> CHECK OUT MY REPOSITORIES </b> 😊
+https://github.com/bhavyakrishna001?tab=repositories
